@@ -16,6 +16,7 @@
     "vue-resource": "^1.0.3"
   },
   "dependencies": {
+    "gulp-concat": "^2.6.1",
     "gulp-livereload": "^3.8.1",
     "rimraf": "^2.5.4"
   }
